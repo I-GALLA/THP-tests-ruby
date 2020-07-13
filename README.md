@@ -3,10 +3,10 @@ Small exercices in Ruby -- RSpec 3 Edition
 
 ### Set up instructions
 
-1. Fork this repo
-2. Clone your version of the repo to your local machine
-3. On your local machine, `cd` into the root folder of this repo in your terminal
-4. you will need rspec installed to make it work so `$ gem install rspec` if it is not the case yet
+1. Fork this repo : done
+2. Clone your version of the repo to your local machine : dne
+3. On your local machine, `cd` into the root folder of this repo in your terminal : done
+4. you will need rspec installed to make it work so `$ gem install rspec` if it is not the case yet :done
 
 ### Concept
 This folder is full of small exercices you will have to do. Thoses exercices are Test Driven, which means the test files are written, and you will have to write to programs that make the tests pass. First you will work with `lib/00_hello.rb`, then it will be `lib/01_temperature.rb`, and so on.
@@ -14,7 +14,7 @@ This folder is full of small exercices you will have to do. Thoses exercices are
 ### Getting started with the exercises
 There are 7 test files, each of these files are about a ruby file. The first one exists (`lib/00_hello.rb`), the other do not exist yet (`01_temperature.rb`, etc). You will have to create them. But first let's work with the first program.
 
-### The first program
+### The first program --> Done
 If you run `$ rspec spec/00_hello_spec.rb`, the program will tell you that it expect the method `hello` to return `"Hello!"`, but it returns `nil` instead. Go to the file `lib/00_hello.rb` and you'll see that the hello method is empty. So write inside the method to make it work !
 
 
