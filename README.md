@@ -21,7 +21,8 @@ If you run `$ rspec spec/00_hello_spec.rb`, the program will tell you that it ex
 Do the same with `greet(name)`.
 
 ### The other programs
-Next, you will have to make the test file `spec/01_temperature_spec.rb` work. If you run `$ rspec spec/01_temperature_spec.rb`, the program will give you error saying the file `lib/01_temperature.rb` does not exist. Create it and rerun the tests. Make the tests work, and go onto the next program. And so on.
+Next, you will have to make the test file `spec/01_temperature_spec.rb` work. If you run `$ rspec spec/01_temperature_spec.rb`, the program will give you error saying the file `lib/01_temperature.rb` does not exist. Create it and rerun the tests. :done !
+Make the tests work, and go onto the next program. And so on.
 
 
 Basically, this is "error-driven development"... you'll keep running tests, hitting error messages, fixing those messages, running more tests...  It is meant to not only test your Ruby skills but also get you comfortable seeing big scary looking stack traces and error messages.  Most of the development you do at first will be just like this.  In fact, most of *all* development is error-driven.  So get comfortable with it!
