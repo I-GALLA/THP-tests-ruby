@@ -20,8 +20,8 @@ If you run `$ rspec spec/00_hello_spec.rb`, the program will tell you that it ex
 
 Do the same with `greet(name)`.
 
-### The other programs
-Next, you will have to make the test file `spec/01_temperature_spec.rb` work. If you run `$ rspec spec/01_temperature_spec.rb`, the program will give you error saying the file `lib/01_temperature.rb` does not exist. Create it and rerun the tests. :done !
+### The other programs :done !
+Next, you will have to make the test file `spec/01_temperature_spec.rb` work. If you run `$ rspec spec/01_temperature_spec.rb`, the program will give you error saying the file `lib/01_temperature.rb` does not exist. Create it and rerun the tests. 
 Make the tests work, and go onto the next program. And so on.
 
 
